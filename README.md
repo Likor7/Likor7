@@ -33,7 +33,6 @@
  </div>
 <br><br><br>
 
-#
  <div align="center">
     <a href="https://t.me/oleh_skupeiko">
     <img src="https://img.shields.io/static/v1?label=Me%20on&message=Telegram&color=29a1d4&style=for-the-badge&logo=telegram" alt="Telegram Link"/>
