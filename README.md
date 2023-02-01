@@ -3,8 +3,8 @@
 <img src="bg-img.png" alt="Background image"/>
 
  Currently, I’m looking for a full-time job, studying and working on my own projects to become a better developer. I am a budding professional with enormous potential as well as willing to learn. I always learn and discover the new, enjoy working in a team and with motivating and inspiring colleagues.
-
----
+ 
+#
 
 ### 🧰 Languages and Tools
 
@@ -29,6 +29,7 @@
 <img align="left" alt="CSS3" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
 <img align="left" alt="JavaScript" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<br><br>
 
 ---
 
