@@ -6,10 +6,10 @@
  
  <div align="center">
     <a href="https://t.me/Likor7">
-    <img src="https://img.shields.io/static/v1?label=Me%20on&message=Telegram&color=29a1d4&style=flat-square&logo=telegram" alt="Telegram Link"/>
+    <img src="https://img.shields.io/static/v1?label=Me%20on&message=Telegram&color=29a1d4&style=for-the-badge&logo=telegram" alt="Telegram Link"/>
     </a>
     <a href="https://www.linkedin.com/in/mymmrac">
-        <img src="https://img.shields.io/static/v1?label=Me%20on&message=LinkedIn&color=0a66c2&style=flat-square&logo=linkedin" alt="LinkedIn Link"/>
+        <img src="https://img.shields.io/static/v1?label=Me%20on&message=LinkedIn&color=0a66c2&style=for-the-badge&logo=linkedin" alt="LinkedIn Link"/>
     </a>
 </div>
 
