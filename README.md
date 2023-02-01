@@ -31,13 +31,13 @@
 
  <img align="left" alt="JavaScript" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  </div>
-<br><br>
+<br><br><br>
 
  <div align="center">
-    <a href="https://t.me/Likor7">
+    <a href="https://t.me/oleh_skupeiko">
     <img src="https://img.shields.io/static/v1?label=Me%20on&message=Telegram&color=29a1d4&style=for-the-badge&logo=telegram" alt="Telegram Link"/>
     </a>
-    <a href="https://www.linkedin.com/in/mymmrac">
+    <a href="https://www.linkedin.com/in/oleh-skupeiko/">
         <img src="https://img.shields.io/static/v1?label=Me%20on&message=LinkedIn&color=0a66c2&style=for-the-badge&logo=linkedin" alt="LinkedIn Link"/>
     </a>
 </div>
