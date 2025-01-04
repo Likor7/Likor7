@@ -1,7 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-<img src="bg-img.png" alt="Background image"/>
-
  Currently, I’m looking for a full-time job, studying and working on my own projects to become a better developer. I am a budding professional with enormous potential as well as willing to learn. I always learn and discover the new, enjoy working in a team and with motivating and inspiring colleagues.
  
 #
