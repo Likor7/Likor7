@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Oleh 👋
+# Hey, I'm Likor7 👋
 
 **I build software that actually solves problems** — mobile apps, business automation, and web platforms that help companies grow faster and work smarter.
 
